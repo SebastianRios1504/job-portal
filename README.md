@@ -6,4 +6,4 @@
 ##ecnologías
 - Git & GitHub
 - HTML / CSS / JS (o lo que estés usando)
-- Backend en desarrollo
+- Backend en desarrollosss
